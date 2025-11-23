@@ -23,8 +23,8 @@ A simple, responsive Task Management application built with **Laravel 11**, **Ta
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/laravel-tasks-learning.git
-    cd laravel-tasks-learning
+    git clone https://github.com/muhamad-bari/laravel-task-management.git
+    cd laravel-task-management
     ```
 
 2.  **Install PHP dependencies:**
@@ -48,7 +48,7 @@ A simple, responsive Task Management application built with **Laravel 11**, **Ta
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=laravel_tasks_learning
+    DB_DATABASE=laravel_task_management
     DB_USERNAME=root
     DB_PASSWORD=
     ```
